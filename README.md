@@ -1,4 +1,4 @@
-# thuyg20_scripts
+# Script files of THUYG-20 Uyghur speech database
 Script files of THUYG-20(A free Uyghur speech database Released by CSLT@Tsinghua University &amp; Xinjiang University).
 
 THUYG-20 using sctipts not Uyghur Arabic scripts or Uyghur Latin Scripts. 
